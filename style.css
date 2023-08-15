@@ -1,0 +1,64 @@
+.foto{
+    margin-left:40%;
+    width: 200px;
+    height: 200px;
+   
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 15%;
+}
+header{
+    background-image: url(Fondo.jpg);
+      
+}
+
+h1{
+    margin-top: 0;
+    background-color: #9370DB;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-bottom:  100px;
+}
+h2{
+    background-color:#E6E6FA;
+    font-size: 20px;
+   
+    color: black;
+    letter-spacing: 5px;   
+}
+ul#datos-personales{
+   font-size: 15px;
+}
+ul li span{
+    font-style: italic;
+}
+footer{
+    
+    background-color: 	#9370DB;
+    color:white ;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 5px;
+    height: 25px;
+    text-align: center;
+}
+
+
+.imagenes img:first-child {
+    margin-right: 20px;
+}
+.imagenes {
+    vertical-align: middle;
+}
+.texto {
+   margin-right: 35px;
+   
+}
+
+.textoIdentado {
+    margin: 0 80px;
+}
+
