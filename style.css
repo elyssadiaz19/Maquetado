@@ -5,14 +5,22 @@
    
 }
 body{
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0 15%;
+    font-family: 'Times New Roman';
+    margin: 5% 15%;
 }
 header{
     background-image: url(Fondo.jpg);
+    height: 200px;
       
 }
-
+.astro{
+    width: 50px;
+    height: 50px;
+}
+.cas{
+    width: 50px;
+    height: 50px;
+}
 h1{
     margin-top: 0;
     background-color: #9370DB;
@@ -21,6 +29,10 @@ h1{
     text-align: center;
     letter-spacing: 5px;
     margin-bottom:  100px;
+}
+.df{
+    margin:4% ;
+    margin-bottom: 30px;
 }
 h2{
     background-color:#E6E6FA;
@@ -61,4 +73,14 @@ footer{
 .textoIdentado {
     margin: 0 80px;
 }
-
+.link{
+    text-align: center;
+}
+a:hover{
+    color:rgb(2, 29, 104);
+}
+.totty{
+    text-align: center;
+    margin:4% ;
+    margin-bottom: 30px;
+}
